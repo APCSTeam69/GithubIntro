@@ -16,7 +16,7 @@ Team member 1
 
 Team member 2
 Name: Austin Lane
-Per 1: Honors US History, Rm 400
+Per 1: Honors US History,  Rm 400
 Per 2: AP Calculus, Rm 415
 Per 3: AP Literature, Rm 114
 Per 4: AP Comp Sci, B12
